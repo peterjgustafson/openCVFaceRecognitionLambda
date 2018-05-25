@@ -1,0 +1,15 @@
+{
+	"lambda_function":"aws-lamda-opencv-face-detection",
+	"bucket": "lambda-opencv",
+	"destination":"output",
+	"region":"us-east-1",
+	"accessKeyId": "AKIAJBG2OQ47Z4EKY7PQ",
+    "secretAccessKey": "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",
+	"format": {
+		"image": {
+			"extension":"jpeg",
+			"mimeType":"image/jpeg"
+		}
+	}
+}
+
